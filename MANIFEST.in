@@ -1,0 +1,2 @@
+recursive-include lightnav/static *.js *.css *.png
+recursive-include lightnav/templates *.html *.txt
